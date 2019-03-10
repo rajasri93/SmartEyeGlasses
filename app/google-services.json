@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "405177086938",
+    "firebase_url": "https://smarteyeglasses-15f76.firebaseio.com",
+    "project_id": "smarteyeglasses-15f76",
+    "storage_bucket": "smarteyeglasses-15f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405177086938:android:8db7199dd40c251f",
+        "android_client_info": {
+          "package_name": "com.example.smarteyeglasses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405177086938-5tabm4rnmo6ol3es353kvgcfq4ka949o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarteyeglasses",
+            "certificate_hash": "6b7e22c2c3e7af9627d423af4cff922fe68c7a52"
+          }
+        },
+        {
+          "client_id": "405177086938-4nke4jeqenh5mv2b5kvgjsoldd1ksj48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Q8CL2xMR27d0dj1ILk3adK3MmRNuCrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405177086938-4nke4jeqenh5mv2b5kvgjsoldd1ksj48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
