@@ -82,7 +82,7 @@ public class DisplayNotificationOnMessageReceivedService extends FirebaseMessagi
      * the previous token had been compromised. Note that this is called when the InstanceID token
      * is initially generated so this is where you would retrieve the token.
      */
-    @Override
+    //@Override
     public void onNewToken(String token) {
         Log.d(TAG, "Refreshed token: " + token);
 
